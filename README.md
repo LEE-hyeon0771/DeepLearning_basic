@@ -9,3 +9,4 @@ study : 매주 1회 study를 통한 학습 내용 발표
 퍼셉트론(2) : https://pred0771.tistory.com/93
 
 2. 신경망(1) : https://pred0771.tistory.com/94
+신경망(2) : https://pred0771.tistory.com/95
