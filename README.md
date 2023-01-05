@@ -16,3 +16,6 @@ study : 매주 1회 study를 통한 학습 내용 발표
 - 신경망(4) : https://pred0771.tistory.com/103
 - 신경망(5) : https://pred0771.tistory.com/104
 - 신경망(6) : https://pred0771.tistory.com/105
+
+3.
+- 신경망 학습(1) : https://pred0771.tistory.com/106
