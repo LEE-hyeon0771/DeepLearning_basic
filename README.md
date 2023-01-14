@@ -5,11 +5,11 @@ study : 매주 1회 study를 통한 학습 내용 발표
 
 학습 내용 : 인공지능의 기본 모델들에 대한 학습
 
-1. 
+### 1. 퍼셉트론 
 - 퍼셉트론(1) : https://pred0771.tistory.com/92    
 - 퍼셉트론(2) : https://pred0771.tistory.com/93
 
-2. 
+### 2. 신경망 
 - 신경망(1) : https://pred0771.tistory.com/94 
 - 신경망(2) : https://pred0771.tistory.com/95
 - 신경망(3) : https://pred0771.tistory.com/100
@@ -17,11 +17,11 @@ study : 매주 1회 study를 통한 학습 내용 발표
 - 신경망(5) : https://pred0771.tistory.com/104
 - 신경망(6) : https://pred0771.tistory.com/105
 
-3.
+### 3. 신경망 학습
 - 신경망 학습(1) : https://pred0771.tistory.com/106
 - 신경망 학습(2) : https://pred0771.tistory.com/110
 - 신경망 학습(3) : https://pred0771.tistory.com/111
 - 신경망 학습(4) : https://pred0771.tistory.com/112
-*[경사하강법 파이썬 코드로 구현 - 테디노트](https://www.youtube.com/watch?v=KgH3ZWmMxLE)
-*[경사하강법 기본 개념 (수학편) - 테디노트](https://www.youtube.com/watch?v=GEdLNvPIbiM)
+* [경사하강법 파이썬 코드로 구현 - 테디노트](https://www.youtube.com/watch?v=KgH3ZWmMxLE)
+* [경사하강법 기본 개념 (수학편) - 테디노트](https://www.youtube.com/watch?v=GEdLNvPIbiM)
 - 신경망 학습(5) : https://pred0771.tistory.com/113
