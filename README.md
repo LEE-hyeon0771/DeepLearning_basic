@@ -25,3 +25,4 @@ study : 매주 1회 study를 통한 학습 내용 발표
 * [경사하강법 파이썬 코드로 구현 - 테디노트](https://www.youtube.com/watch?v=KgH3ZWmMxLE)
 * [경사하강법 기본 개념 (수학편) - 테디노트](https://www.youtube.com/watch?v=GEdLNvPIbiM)
 - 신경망 학습(5) : https://pred0771.tistory.com/113
+- 신경망 학습(6) : https://pred0771.tistory.com/114
