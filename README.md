@@ -6,6 +6,11 @@ study : 매주 1회 study를 통한 학습 내용 발표
 학습 내용 : 인공지능의 기본 모델들에 대한 학습
 
 참고 : [ML 프로젝트 예제 저장소](https://github.com/ml-tooling/best-of-ml-python)
+
+##Microsoft student partnership 참고자료
+- https://u0jin.tistory.com/m/68
+- https://blog.aaronroh.org/77
+- https://studentambassadors.microsoft.com/
 ### 1. 퍼셉트론 
 - 퍼셉트론(1) : https://pred0771.tistory.com/92    
 - 퍼셉트론(2) : https://pred0771.tistory.com/93
