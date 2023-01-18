@@ -7,7 +7,7 @@ study : 매주 1회 study를 통한 학습 내용 발표
 
 참고 : [ML 프로젝트 예제 저장소](https://github.com/ml-tooling/best-of-ml-python)
 
-##Microsoft student partnership 참고자료
+## Microsoft student partnership 참고자료
 - https://u0jin.tistory.com/m/68
 - https://blog.aaronroh.org/77
 - https://studentambassadors.microsoft.com/
