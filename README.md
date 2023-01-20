@@ -33,3 +33,7 @@ study : 매주 1회 study를 통한 학습 내용 발표
 - 신경망 학습(5) : https://pred0771.tistory.com/113
 - 신경망 학습(6) : https://pred0771.tistory.com/114
 - 신경망 학습(7) : https://pred0771.tistory.com/115
+
+### 4. 오차역전파법
+- 오차역전파법(1) : https://pred0771.tistory.com/116
+
