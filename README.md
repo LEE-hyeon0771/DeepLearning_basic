@@ -39,5 +39,5 @@ study : 매주 1회 study를 통한 학습 내용 발표
 * [오차역전파법 참고자료](https://www.youtube.com/watch?v=1Q_etC_GHHk)
 - 오차역전파법(1) : https://pred0771.tistory.com/116
 - 오차역전파법(2) : https://pred0771.tistory.com/119
-- 오차역전파법(3)
+- 오차역전파법(3) : https://pred0771.tistory.com/122
 - 오차역전파법(4)
