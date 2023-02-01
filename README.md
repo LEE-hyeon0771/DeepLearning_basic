@@ -42,3 +42,6 @@ study : 매주 1회 study를 통한 학습 내용 발표
 - [오차역전파법(3)](https://pred0771.tistory.com/122)
 - [오차역전파법(4)](https://pred0771.tistory.com/124)
 
+### 5. 학습 관련 기술
+- [학습 관련 기술(1)](https://pred0771.tistory.com/130)
+
