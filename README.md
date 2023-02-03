@@ -9,8 +9,8 @@ study : 매주 1회 study를 통한 학습 내용 발표
 
 #### 참고
 
-[ML 프로젝트 예제 저장소](https://github.com/ml-tooling/best-of-ml-python)
-[cs231n 수업 : Computer Vision](https://cs231n.github.io/)
+- [ML 프로젝트 예제 저장소](https://github.com/ml-tooling/best-of-ml-python)
+- [cs231n 수업 : Computer Vision](https://cs231n.github.io/)
 
 
 ## Microsoft student partnership 참고자료
