@@ -41,7 +41,6 @@ study : 매주 1회 study를 통한 학습 내용 발표
 - [신경망 학습(7)](https://pred0771.tistory.com/115)
 
 ### 4. 오차역전파법
-
 * [오차역전파법 참고자료](https://www.youtube.com/watch?v=1Q_etC_GHHk)
 - [오차역전파법(1)](https://pred0771.tistory.com/116)
 - [오차역전파법(2)](https://pred0771.tistory.com/119)
@@ -51,4 +50,5 @@ study : 매주 1회 study를 통한 학습 내용 발표
 ### 5. 학습 관련 기술
 - [신경망 학습 관련 기술(1)](https://pred0771.tistory.com/130)
 - [신경망 학습 관련 기술(2)](https://pred0771.tistory.com/132)
+- [신경망 학습 관련 기술(3)](https://pred0771.tistory.com/133)
 
