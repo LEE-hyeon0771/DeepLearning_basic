@@ -51,4 +51,4 @@ study : 매주 1회 study를 통한 학습 내용 발표
 - [신경망 학습 관련 기술(1)](https://pred0771.tistory.com/130)
 - [신경망 학습 관련 기술(2)](https://pred0771.tistory.com/132)
 - [신경망 학습 관련 기술(3)](https://pred0771.tistory.com/133)
-
+- [batch-norm 참고영상](https://m.youtube.com/watch?v=nUUqwaxLnWs)
