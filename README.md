@@ -18,6 +18,7 @@ study : 매주 1회 study를 통한 학습 내용 발표
 - https://u0jin.tistory.com/m/68
 - https://blog.aaronroh.org/77
 - https://studentambassadors.microsoft.com/
+
 ### 1. 퍼셉트론 
 - [퍼셉트론(1)](https://pred0771.tistory.com/92)    
 - [퍼셉트론(2)](https://pred0771.tistory.com/93)
@@ -55,3 +56,4 @@ study : 매주 1회 study를 통한 학습 내용 발표
 - [batch-norm 참고영상](https://m.youtube.com/watch?v=nUUqwaxLnWs)
 - [Optimization Adam 참고영상](https://m.youtube.com/watch?v=JXQT_vxqwIs)
 - [신경망 학습 관련 기술(4)](https://pred0771.tistory.com/134)
+- [L1/L2 정규화](https://www.youtube.com/watch?v=01qqdvP0sdU&list=PL9mhQYIlKEhewXqJaTy_wd5emhDwW6JU6&index=8)
