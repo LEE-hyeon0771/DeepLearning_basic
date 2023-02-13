@@ -11,12 +11,14 @@ study : 매주 1회 study를 통한 학습 내용 발표
 
 - [ML 프로젝트 예제 저장소](https://github.com/ml-tooling/best-of-ml-python)
 - [cs231n 수업 : Computer Vision](https://cs231n.github.io/)
-
+- [cs231n 영어강의](https://m.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+- [cs231n 한글풀이강의 - 송교석님](https://www.youtube.com/watch?v=3QjGtOlIiVI)
 
 ## Microsoft student partnership 참고자료
 - https://u0jin.tistory.com/m/68
 - https://blog.aaronroh.org/77
 - https://studentambassadors.microsoft.com/
+
 ### 1. 퍼셉트론 
 - [퍼셉트론(1)](https://pred0771.tistory.com/92)    
 - [퍼셉트론(2)](https://pred0771.tistory.com/93)
@@ -52,4 +54,6 @@ study : 매주 1회 study를 통한 학습 내용 발표
 - [신경망 학습 관련 기술(2)](https://pred0771.tistory.com/132)
 - [신경망 학습 관련 기술(3)](https://pred0771.tistory.com/133)
 - [batch-norm 참고영상](https://m.youtube.com/watch?v=nUUqwaxLnWs)
+- [Optimization Adam 참고영상](https://m.youtube.com/watch?v=JXQT_vxqwIs)
 - [신경망 학습 관련 기술(4)](https://pred0771.tistory.com/134)
+- [L1/L2 정규화](https://www.youtube.com/watch?v=01qqdvP0sdU&list=PL9mhQYIlKEhewXqJaTy_wd5emhDwW6JU6&index=8)
