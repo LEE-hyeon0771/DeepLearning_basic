@@ -59,3 +59,6 @@ study : 매주 1회 study를 통한 학습 내용 발표
 - [L1/L2 정규화](https://www.youtube.com/watch?v=01qqdvP0sdU&list=PL9mhQYIlKEhewXqJaTy_wd5emhDwW6JU6&index=8)
 - [신경망 학습 관련 기술(5)](https://pred0771.tistory.com/136)
 - [신경망 학습 관련 기술(6)](https://pred0771.tistory.com/137)
+
+### 6. CNN
+- [CNN(1)](https://pred0771.tistory.com/138)
