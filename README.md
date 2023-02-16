@@ -61,4 +61,4 @@ study : 매주 1회 study를 통한 학습 내용 발표
 - [신경망 학습 관련 기술(6)](https://pred0771.tistory.com/137)
 
 ### 6. CNN
-- [CNN(1)](https://pred0771.tistory.com/138)
+- [CNN(1)
