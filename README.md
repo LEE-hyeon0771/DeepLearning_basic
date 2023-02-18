@@ -64,3 +64,4 @@ study : 매주 1회 study를 통한 학습 내용 발표
 - [CNN(1)](https://pred0771.tistory.com/138)
 - [CNN(2)](https://pred0771.tistory.com/139)
 - [CNN(3)](https://pred0771.tistory.com/140)
+- [CNN(4)](https://pred0771.tistory.com/141)
