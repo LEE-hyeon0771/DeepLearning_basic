@@ -66,3 +66,4 @@ study : 매주 1회 study를 통한 학습 내용 발표
 - [CNN(3)](https://pred0771.tistory.com/140)
 - [CNN(4)](https://pred0771.tistory.com/141)
 - [CNN(5)](https://pred0771.tistory.com/142)
+- AlexNet 논문 : https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
