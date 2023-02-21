@@ -19,6 +19,8 @@ study : 매주 1회 study를 통한 학습 내용 발표
 - https://blog.aaronroh.org/77
 - https://studentambassadors.microsoft.com/
 
+## Learning contents
+
 ### 1. 퍼셉트론 
 - [퍼셉트론(1)](https://pred0771.tistory.com/92)    
 - [퍼셉트론(2)](https://pred0771.tistory.com/93)
