@@ -72,3 +72,4 @@ study : 매주 1회 study를 통한 학습 내용 발표
 
 ### 7. 딥러닝
 - [딥러닝(1)](https://pred0771.tistory.com/143)
+- [딥러닝(2)](https://pred0771.tistory.com/144)
