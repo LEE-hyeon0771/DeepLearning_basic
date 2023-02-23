@@ -74,3 +74,4 @@ study : 매주 1회 study를 통한 학습 내용 발표
 - [딥러닝(1)](https://pred0771.tistory.com/143)
 - [딥러닝(2)](https://pred0771.tistory.com/144)
 - [딥러닝(3)](https://pred0771.tistory.com/145)
+- SegNet논문 : https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7803544
