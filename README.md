@@ -68,10 +68,12 @@ study : 매주 1회 study를 통한 학습 내용 발표
 - [CNN(3)](https://pred0771.tistory.com/140)
 - [CNN(4)](https://pred0771.tistory.com/141)
 - [CNN(5)](https://pred0771.tistory.com/142)
-- AlexNet 논문 : https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
+- [AlexNet 논문](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
 
 ### 7. 딥러닝
 - [딥러닝(1)](https://pred0771.tistory.com/143)
 - [딥러닝(2)](https://pred0771.tistory.com/144)
 - [딥러닝(3)](https://pred0771.tistory.com/145)
-- SegNet논문 : https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7803544
+- [SegNet논문](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7803544)
+- [RNN논문](https://reader.elsevier.com/reader/sd/pii/S0167278919305974?token=7AAB43B58F0D1C6D39603DCAF2BAB4B13DD6FBC7C7513CC1FD8EA92FE4033CB5D671CE465955128A28FFF207C5982954&originRegion=us-east-1&originCreation=20230223154901)
+- [Deep reinforcement learning논문](https://arxiv.org/pdf/1701.07274.pdf)
