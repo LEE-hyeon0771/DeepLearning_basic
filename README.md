@@ -77,3 +77,4 @@ study : 매주 1회 study를 통한 학습 내용 발표
 - [SegNet논문](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7803544)
 - [RNN논문](https://reader.elsevier.com/reader/sd/pii/S0167278919305974?token=7AAB43B58F0D1C6D39603DCAF2BAB4B13DD6FBC7C7513CC1FD8EA92FE4033CB5D671CE465955128A28FFF207C5982954&originRegion=us-east-1&originCreation=20230223154901)
 - [Deep reinforcement learning논문](https://arxiv.org/pdf/1701.07274.pdf)
+- [GAN 논문 리뷰 및 코드 실습](https://www.youtube.com/watch?v=AVvlDmhHgC4)
