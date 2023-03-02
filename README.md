@@ -5,6 +5,8 @@
 study : 매주 1회 study를 통한 학습 내용 발표
 
 학습 내용 : 신경망과 인공지능의 기본 모델들과 CNN모델에 대한 학습
+
+[컨텐츠 notion](https://www.notion.so/study-bcb027c3d8ec4db69ff6174cc844ddf0)
 ```
 
 #### 참고
