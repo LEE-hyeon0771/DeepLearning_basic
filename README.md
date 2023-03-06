@@ -11,7 +11,7 @@ study : 매주 1회 study를 통한 학습 내용 발표
 
 - [ML 프로젝트 예제 저장소](https://github.com/ml-tooling/best-of-ml-python)
 - [cs231n 수업 : Computer Vision](https://cs231n.github.io/)
-
+- [딥러닝 강의](https://atcold.github.io/pytorch-Deep-Learning/)
 ## Microsoft student partnership 참고자료
 - https://u0jin.tistory.com/m/68
 - https://blog.aaronroh.org/77
