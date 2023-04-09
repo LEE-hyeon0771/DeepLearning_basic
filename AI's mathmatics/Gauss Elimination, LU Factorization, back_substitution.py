@@ -67,7 +67,7 @@ print(f"gauss_elimination을 이용한 U : \n{U}")
 x = backward_substitution(U, b)
 print(f"x:\n{x}")
 
-# LU 분해를 사용하여 L을 구함.
+# LU 분해를 사용하여 L과 U를 정확히 구함.
 L, U = LU_Factorization(A)
 print(f"LU분해를 이용한 L : \n{L}")
 print(f"LU분해를 이용한 U : \n{U}")
