@@ -1,5 +1,5 @@
 import numpy as np
-from scipy.linalg import lstsq
+
 
 A = np.array([
     [0.16, 0.10],
@@ -9,7 +9,10 @@ A = np.array([
 
 b = np.array([0.27, 0.25, 3.33]).reshape(-1, 1)
 
-x, _, _, _ = lstsq(A, b)
+def least_sqaures(A, b):
+    return np.linalg.inv(A.T @ A) @ A.T @ b
+
+x = least_sqaures(A, b)
 
 np.set_printoptions(precision=20)
 print(f"result (a) : {x})")

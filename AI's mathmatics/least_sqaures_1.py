@@ -9,8 +9,10 @@ A = np.array([
 
 b = np.array([0.26, 0.28, 3.31]).reshape(-1, 1)
 
+def least_sqaures(A, b):
+    return np.linalg.inv(A.T @ A) @ A.T @ b
 
-x, _, _, _ = lstsq(A, b)
+x = least_sqaures(A, b)
 
 np.set_printoptions(precision=20)
 print(f"result (a) : {x})")
