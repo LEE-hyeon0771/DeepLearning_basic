@@ -38,43 +38,6 @@ def gradient(params, data, lamb):
 
     return grad
 
-'''
-def gradient_descent(data, lamb, learning_rate=1e-3, max_iter=10000, tol=1e-6):
-    params = np.random.rand(4)  # 초기 추정값 설정
-    params[3:] = np.zeros(1)  # s에 대한 초기 추정값을 0으로 설정
-    prev_obj = np.inf
-
-    for iteration in range(max_iter):
-        grad = gradient(params, data, lamb)
-        params -= learning_rate * grad
-        curr_obj = objective(params, data, lamb)
-
-        if np.abs(curr_obj - prev_obj) < tol:
-            break
-
-        prev_obj = curr_obj
-
-    return params
-
-def gradient_descent(data, lamb, initial_lr=0.1, lr_reduction_factor=0.5, max_iter=1000, tol=1e-6):
-    x, y, t = data
-    params = np.zeros(4)
-    objective_prev = np.inf
-    lr = initial_lr
-
-    for _ in range(max_iter):
-        grad = gradient(params, data, lamb)
-        new_params = params - lr * grad
-        new_objective = objective(new_params, data, lamb)
-
-        if new_objective < objective_prev - tol:
-            params = new_params
-            objective_prev = new_objective
-        else:
-            lr *= lr_reduction_factor
-
-    return params
-'''
 def gradient_descent(data, lamb, initial_lr=0.01, c=1e-4, lr_reduction_factor=0.5, max_iter=1000, tol=1e-6):
     x, y, t = data
     params = np.zeros(4)
@@ -114,10 +77,23 @@ data2 = (
          0.728616447305601, 1.24160411252663])
 )
 
-lamb = 0.01
-result1 = gradient_descent(data1, lamb)
-result2 = gradient_descent(data2, lamb)
+lamb_values = [0.1, 0.01, 0.001]
 
-print("Result for data1(x,y,t,s):", result1)
-print("Result for data2(x,y,t,s):", result2)
+for lamb in lamb_values:
+    result1 = gradient_descent(data1, lamb)
+    result2 = gradient_descent(data2, lamb)
 
+    print(f"Results for lamb={lamb}:")
+    print("Result for data1(x,y,t,s):", result1)
+    print("Result for data2(x,y,t,s):", result2)
+    print()
+
+lamb_values = np.linspace(0, 10, 11)
+
+for lamb in lamb_values:
+    result1 = gradient_descent(data1, lamb)
+    result2 = gradient_descent(data2, lamb)
+    print(f"Results for lamb = {lamb}:")
+    print("Result for data1(x,y,t,s):", result1)
+    print("Result for data2(x,y,t,s):", result2)
+    print("\n")
