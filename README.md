@@ -14,6 +14,7 @@ study : 매주 1회 study를 통한 학습 내용 발표
 - [cs231n 수업 : Computer Vision](https://cs231n.github.io/)
 - [딥러닝 강의](https://atcold.github.io/pytorch-Deep-Learning/)
 - [Object detection](https://www.youtube.com/watch?v=GSwYGkTfOKk&list=PL_IHmaMAvkVxdDOBRg2CbcJBq9SY7ZUvs)
+- [AWS Summit Seoul 방문기](https://pred0771.tistory.com/161)
 
 ## Microsoft student partnership 참고자료
 - https://u0jin.tistory.com/m/68
