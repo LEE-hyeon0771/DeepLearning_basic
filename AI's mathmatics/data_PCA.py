@@ -14,7 +14,7 @@ pca.fit(d)
 s_estimated = pca.transform(d)
 
 # Get the mixing matrix
-A_estimated = pca.components_
+A_estimated = pca.components_.T
 
 print("Estimated Mixing Matrix A:\n", A_estimated)
 print("Estimated Original Signals s(t):\n", s_estimated.T)
